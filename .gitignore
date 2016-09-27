@@ -16,3 +16,8 @@ _temp
 !systemjs.config.js
 !typings/typings.d.ts
 !wallaby.js
+
+/.project
+/.tern-project
+
+ts.eclipse.ide.core.prefs
